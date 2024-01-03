@@ -27,6 +27,6 @@
    - The variable `posTicket` is used to store the active ticket order number. It is initialized to zero and updated whenever a trade is executed.
      </ul>
 
-Overall, the strategy  relies on a combination of moving average positions, RSI, and candlestick patterns to generate buy and sell signals. It also incorporates checks to ensure that the fast and medium moving averages are not too close to each other before making a trading decision. It's important to note that trading strategies involve risk, and thorough testing and analysis are recommended before deploying them in a live trading environment.</br>
+Overall, the strategy  relies on a combination of moving average positions, RSI, and candlestick patterns to generate buy and sell signals. It also incorporates checks to ensure that the fast and medium moving averages are not too close to each other before making a trading decision. It's important to note that trading strategies involve risk, and thorough testing and analysis are recommended before deploying them in a live trading environment.</br></br>
 Please note I am merely a novice in trading and MQL5 so this is still an ongoing project.
 </p>
